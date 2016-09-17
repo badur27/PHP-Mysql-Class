@@ -1,8 +1,7 @@
 <?php
 
 class MysqlClass{
-	
-	private $hostname;
+    private $hostname;
     private $database;
     private $username;
     private $password;
